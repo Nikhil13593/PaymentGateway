@@ -27,7 +27,7 @@ class ViewController: UIViewController, RazorpayPaymentCompletionProtocol {
         let options: [String:Any] = [
             "amount" : "7800000",
             "description": "Buy iPhone XR",
-            "image": "http://www.brninfotech.com/pulse/assets/admin/layout/img/logo-big.png",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Flipkart_logo.svg/250px-Flipkart_logo.svg.png",
             "name": "Flipkart.com",
             "prefill": [
             "contact": "",
